@@ -8,7 +8,7 @@
   "check_mode": "syntax",
   "split_size": 2000,
   "split_files": [
-    "sub-001.txt"
+    "chunks/sub-001.txt"
   ],
   "errors": [],
   "checks": [
