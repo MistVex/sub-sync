@@ -9,10 +9,10 @@
   ],
   "source_count": 6,
   "extracted_count": 5241,
-  "output_count": 5233,
+  "output_count": 5238,
   "check_mode": "syntax",
   "check_count": 5241,
-  "failed_count": 8,
+  "failed_count": 3,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -38,36 +38,6 @@
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "socks://Og%3D%3D@45.144.54.40:1080#🇩🇪DE_70",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid encoded credentials"
-    },
-    {
-      "link": "socks://Og%3D%3D@149.62.186.244:1080#🇮🇹IT_15",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid encoded credentials"
-    },
-    {
-      "link": "socks://Og%3D%3D@144.24.111.128:1088#❓Other_30",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid encoded credentials"
-    },
-    {
-      "link": "socks://Og@112.28.149.152:8443#US美国(ProxyGo免费节点分享",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid encoded credentials"
-    },
-    {
-      "link": "socks://T2c6@112.28.149.152:8443#CA加拿大(ProxyGo免费节点分享",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid encoded credentials"
     }
   ]
 }
