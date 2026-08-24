@@ -1,27 +1,35 @@
 {
   "sources": [
-    "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub"
+    "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
+    "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt"
   ],
-  "source_count": 1,
-  "extracted_count": 1645,
-  "output_count": 1643,
+  "source_count": 2,
+  "extracted_count": 2453,
+  "output_count": 2450,
   "check_mode": "syntax",
-  "check_count": 1645,
-  "failed_count": 2,
+  "check_count": 2453,
+  "failed_count": 3,
   "split_size": 2000,
   "split_files": [
-    "chunks/sub-001.txt"
+    "chunks/sub-001.txt",
+    "chunks/sub-002.txt"
   ],
   "errors": [],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-713%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-724%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-813%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-825%20%7C%20free-nodes",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid host/port"
+    },
+    {
+      "link": "vless://Telegram🇨🇳",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid host/port"
