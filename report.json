@@ -4,13 +4,14 @@
     "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt",
     "https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45",
     "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
-    "https://gh-proxy.com/raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt"
+    "https://gh-proxy.com/raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt",
+    "https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt"
   ],
-  "source_count": 5,
-  "extracted_count": 4090,
-  "output_count": 4086,
+  "source_count": 6,
+  "extracted_count": 5231,
+  "output_count": 5227,
   "check_mode": "syntax",
-  "check_count": 4090,
+  "check_count": 5231,
   "failed_count": 4,
   "split_size": 2000,
   "split_files": [
@@ -18,9 +19,7 @@
     "chunks/sub-002.txt",
     "chunks/sub-003.txt"
   ],
-  "errors": [
-    "failed to fetch https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45: HTTP Error 502: Bad Gateway"
-  ],
+  "errors": [],
   "checks": [
     {
       "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-731%20%7C%20free-nodes",
