@@ -1,13 +1,14 @@
 {
   "sources": [
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
-    "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt"
+    "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt",
+    "https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45"
   ],
-  "source_count": 2,
-  "extracted_count": 2453,
-  "output_count": 2450,
+  "source_count": 3,
+  "extracted_count": 2712,
+  "output_count": 2709,
   "check_mode": "syntax",
-  "check_count": 2453,
+  "check_count": 2712,
   "failed_count": 3,
   "split_size": 2000,
   "split_files": [
