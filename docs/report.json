@@ -2,22 +2,22 @@
   "sources": [
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
     "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt",
-    "https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45"
+    "https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45",
+    "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt"
   ],
-  "source_count": 3,
-  "extracted_count": 4001,
-  "output_count": 3997,
+  "source_count": 4,
+  "extracted_count": 4291,
+  "output_count": 4287,
   "check_mode": "syntax",
-  "check_count": 4001,
+  "check_count": 4291,
   "failed_count": 4,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
-    "chunks/sub-002.txt"
+    "chunks/sub-002.txt",
+    "chunks/sub-003.txt"
   ],
-  "errors": [
-    "failed to fetch https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45: HTTP Error 403: Forbidden"
-  ],
+  "errors": [],
   "checks": [
     {
       "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-731%20%7C%20free-nodes",
@@ -32,16 +32,16 @@
       "reason": "missing or invalid host/port"
     },
     {
-      "link": "trojan://pH[]S[Bh:_:D6T4k@104.19.45.195:443?sni=AZaDneT-692.PagEs.DEv&type=ws&path=%2FtrsVu9Ualb1DOfGjpw&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_964%7C225KB%2Fs%7CR002-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid URL"
-    },
-    {
       "link": "vless://Telegram🇨🇳",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid host/port"
+    },
+    {
+      "link": "trojan://pH[]S[Bh:_:D6T4k@104.19.45.195:443?sni=AZaDneT-692.PagEs.DEv&type=ws&path=%2FtrsVu9Ualb1DOfGjpw&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_964%7C225KB%2Fs%7CR002-260618",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid URL"
     }
   ]
 }
