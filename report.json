@@ -8,10 +8,10 @@
     "https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt"
   ],
   "source_count": 6,
-  "extracted_count": 5241,
-  "output_count": 5238,
+  "extracted_count": 5236,
+  "output_count": 5233,
   "check_mode": "syntax",
-  "check_count": 5241,
+  "check_count": 5236,
   "failed_count": 3,
   "split_size": 2000,
   "split_files": [
