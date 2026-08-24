@@ -3,10 +3,10 @@
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub"
   ],
   "source_count": 1,
-  "extracted_count": 1633,
-  "output_count": 1631,
+  "extracted_count": 1645,
+  "output_count": 1643,
   "check_mode": "syntax",
-  "check_count": 1633,
+  "check_count": 1645,
   "failed_count": 2,
   "split_size": 2000,
   "split_files": [
@@ -15,13 +15,13 @@
   "errors": [],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-679%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-713%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-787%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-813%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid host/port"
