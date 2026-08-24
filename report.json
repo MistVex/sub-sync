@@ -8,11 +8,11 @@
     "https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt"
   ],
   "source_count": 6,
-  "extracted_count": 5231,
-  "output_count": 5227,
+  "extracted_count": 5241,
+  "output_count": 5233,
   "check_mode": "syntax",
-  "check_count": 5231,
-  "failed_count": 4,
+  "check_count": 5241,
+  "failed_count": 8,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -25,25 +25,49 @@
       "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-731%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
-      "reason": "missing or invalid host/port"
+      "reason": "missing or invalid user/host/port"
     },
     {
       "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-830%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
-      "reason": "missing or invalid host/port"
+      "reason": "missing or invalid user/host/port"
     },
     {
       "link": "vless://Telegram🇨🇳",
       "ok": false,
       "mode": "syntax",
-      "reason": "missing or invalid host/port"
+      "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://pH[]S[Bh:_:D6T4k@104.19.45.195:443?sni=AZaDneT-692.PagEs.DEv&type=ws&path=%2FtrsVu9Ualb1DOfGjpw&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_964%7C225KB%2Fs%7CR002-260618",
+      "link": "socks://Og%3D%3D@45.144.54.40:1080#🇩🇪DE_70",
       "ok": false,
       "mode": "syntax",
-      "reason": "invalid URL"
+      "reason": "invalid encoded credentials"
+    },
+    {
+      "link": "socks://Og%3D%3D@149.62.186.244:1080#🇮🇹IT_15",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid encoded credentials"
+    },
+    {
+      "link": "socks://Og%3D%3D@144.24.111.128:1088#❓Other_30",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid encoded credentials"
+    },
+    {
+      "link": "socks://Og@112.28.149.152:8443#US美国(ProxyGo免费节点分享",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid encoded credentials"
+    },
+    {
+      "link": "socks://T2c6@112.28.149.152:8443#CA加拿大(ProxyGo免费节点分享",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid encoded credentials"
     }
   ]
 }
