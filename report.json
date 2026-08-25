@@ -2,7 +2,7 @@
   "sources": [
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
     "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt",
-    "https://sub.proxygo.org/v2ray.php?key=671bab4d510711ece95c6c0532c2ce45",
+    "https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d",
     "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
     "https://gh-proxy.com/raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt",
     "https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt",
@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 9251,
-  "output_count": 9211,
+  "extracted_count": 9298,
+  "output_count": 9258,
   "check_mode": "syntax",
-  "check_count": 9251,
+  "check_count": 9298,
   "failed_count": 40,
   "split_size": 2000,
   "split_files": [
@@ -29,6 +29,7 @@
     "chunks/sub-005.txt"
   ],
   "errors": [
+    "failed to fetch https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d: HTTP Error 502: Bad Gateway",
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
   ],
   "checks": [
