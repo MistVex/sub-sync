@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10312,
-  "output_count": 10272,
+  "extracted_count": 9251,
+  "output_count": 9211,
   "check_mode": "syntax",
-  "check_count": 10312,
+  "check_count": 9251,
   "failed_count": 40,
   "split_size": 2000,
   "split_files": [
@@ -26,8 +26,7 @@
     "chunks/sub-002.txt",
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
-    "chunks/sub-005.txt",
-    "chunks/sub-006.txt"
+    "chunks/sub-005.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
