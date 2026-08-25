@@ -8,10 +8,10 @@
     "https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt"
   ],
   "source_count": 6,
-  "extracted_count": 5478,
-  "output_count": 5474,
+  "extracted_count": 5776,
+  "output_count": 5772,
   "check_mode": "syntax",
-  "check_count": 5478,
+  "check_count": 5776,
   "failed_count": 4,
   "split_size": 2000,
   "split_files": [
@@ -22,25 +22,25 @@
   "errors": [],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-721%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-736%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-825%20%7C%20free-nodes",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vless://Telegram🇨🇳",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-840%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
       "link": "vless://Telegram",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "vless://Telegram🇨🇳",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
