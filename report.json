@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10082,
-  "output_count": 10061,
+  "extracted_count": 11384,
+  "output_count": 11362,
   "check_mode": "syntax",
-  "check_count": 10082,
-  "failed_count": 21,
+  "check_count": 11384,
+  "failed_count": 22,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -47,6 +47,12 @@
     },
     {
       "link": "vless://Telegram🇨🇳",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_732%7C317KB%2Fs%7CM001-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
