@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10180,
-  "output_count": 10155,
+  "extracted_count": 10367,
+  "output_count": 10341,
   "check_mode": "syntax",
-  "check_count": 10180,
-  "failed_count": 25,
+  "check_count": 10367,
+  "failed_count": 26,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -34,16 +34,22 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-744%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-749%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-849%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-856%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTU1LjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGM2OTJhNGQtZDIyMy00NzBhLTkyYjMtMDBjNGIxODljYTczIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1OTA3NiIsInBzIjoiQHYycmF5TkdfTWF0c3VyaS1AdjJyYXlOR19NYXRzdXJpfPCfk4o4MDAuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器56",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid vmess base64"
     },
     {
       "link": "ss://2022-blake3-chacha20-poly1305:KR0IBPP9QiDsK8b+zC/RuROUSLkH6KvULe5JFmN+Yuk=@141.144.205.171:45819#%F0%9F%87%B3%F0%9F%87%B1NL_297",
