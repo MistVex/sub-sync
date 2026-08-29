@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 9466,
-  "output_count": 9442,
+  "extracted_count": 9009,
+  "output_count": 8991,
   "check_mode": "syntax",
-  "check_count": 9466,
-  "failed_count": 24,
+  "check_count": 9009,
+  "failed_count": 18,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -33,67 +33,31 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-635%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-643%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-730%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-736%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTU1LjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGM2OTJhNGQtZDIyMy00NzBhLTkyYjMtMDBjNGIxODljYTczIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1OTA3NiIsInBzIjoiQHYycmF5TkdfTWF0c3VyaS1AdjJyYXlOR19NYXRzdXJpfPCfk4o4MDAuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器26",
+      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNDUzNzBmMC1jNGIwLTQzNjktYWRiYy1mYTQ2Y2JjMzM3MDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMxNTQwIiwicHMiOiLwn4eo8J+HtCDZhdinIEB2MnJheU5HX01hdHN1cmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器55",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:c2Iqp2NqoIu+rj64uIiln6zp6x/AuCOcmB9f0dcfa4Y=@137.131.145.140:59319#%F0%9F%87%A7%F0%9F%87%B7BR_12",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1067",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:dhVHI56QN3701Oczms4YeUmlpgPOXJdrO2eG5/WZpcQ=@137.131.11.214:50356#%F0%9F%87%BA%F0%9F%87%B8US_544",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@[2a13:29?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision&sni=u643766ubfb7b8f7s861.gogocs.xyz#%E7%BE%8E%E5%9B%BD_50",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-chacha20-poly1305:RIgr1Kotuqj8nM8PTw/txPb4Q7Qx1DNl3K/ochMl/t4=@147.15.58.195:59319#%F0%9F%87%A7%F0%9F%87%B7BR_13",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-chacha20-poly1305:INRdbIRZKRRbsFj4TAxNOnbAu0Yh7G/lr33SS+4V+s8=@129.151.84.196:61312#%F0%9F%87%AC%F0%9F%87%A7GB_161",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-chacha20-poly1305:Mr13/A/FrxRXiwl0/lVDceMyzGzsOg1SgX/hcIsDM5Q=@89.168.109.144:59924#%F0%9F%87%A9%F0%9F%87%AADE_124",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-chacha20-poly1305:gJyfItkGGCfGmC41s+4qS/c2sR8W9srwa1vC6fH179Q=@158.101.220.236:45819#%F0%9F%87%B3%F0%9F%87%B1NL_269",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-chacha20-poly1305:syoHUErIIXqk/xwYXjB/fHaW3puNw529eq5eIqtjpq0=@137.131.187.253:59319#%F0%9F%87%A7%F0%9F%87%B7BR_11",
+      "link": "ss://2022-blake3-chacha20-poly1305:e/LtVsVh1d/nLym2Se5Q1iueknHxIiUB4eNujOLXNe8=@129.146.167.71:50356#%F0%9F%87%BA%F0%9F%87%B8US_557",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -105,43 +69,43 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:qarC1K8VLl88tGC8twftH/BEU9jPrH7UjF/aGzwqJC0=@132.226.103.137:50356#%F0%9F%87%BA%F0%9F%87%B8US_549",
+      "link": "ss://2022-blake3-chacha20-poly1305:KXH1wvyRSEvM9nM+k1Twlar5OyguGkr5VdW7mi/q934=@141.148.227.92:45819#%F0%9F%87%B3%F0%9F%87%B1NL_246",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:azK0LCGqO4gM7vqrkuEAREN/zzWcN85Gb0x/SnCB+o0=@130.162.53.216:59924#%F0%9F%87%A9%F0%9F%87%AADE_128",
+      "link": "vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@[2a13:29?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision&sni=u643766ubfb7b8f7s861.gogocs.xyz#%E7%BE%8E%E5%9B%BD_50",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:G3nkme2zEv/2EnB978appjst7neAH/a234zb2Sm9DpE=@129.151.78.219:61312#%F0%9F%87%AC%F0%9F%87%A7GB_162",
+      "link": "ss://2022-blake3-chacha20-poly1305:IZiJLVaIMcmwxQ9UZH7Ugv+4jF87o/FMDzG3lSMmPmY=@152.70.191.181:59924#%F0%9F%87%A9%F0%9F%87%AADE_157",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-aes-256-gcm:GTNKalLEuWo/T/Y2/0lkfH5dQkSU9DFmMDuvTmowzsI=:ZcV1AKzS1KPuLXOvW3RXr+HFldso5hZoaMpZ/qbeEW4=@130.185.122.106:8443#%F0%9F%87%B3%F0%9F%87%B1NL_253",
+      "link": "ss://2022-blake3-aes-256-gcm:f2Nq5YLnyclPaWR8my7/Vdd3ZX8URncXZNly5+HcUSs=:aE6MxBTe+MXHd9HoF2FF/BzKFqGTReMpMevlQhvsu0s=@176.53.17.241:1943#%E2%9D%93Other_108",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:U2dWoFKs66qM/YYOrtznCOeFuT8n02O5POSU1zH+KHg=@92.5.227.173:45819#%F0%9F%87%B3%F0%9F%87%B1NL_244",
+      "link": "ss://2022-blake3-chacha20-poly1305:pi2hqC/eWx66Af0GeDAmbU4xlrg9HIWVNpkpNX8S5Jk=@152.70.59.243:45819#%F0%9F%87%B3%F0%9F%87%B1NL_261",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_883",
+      "link": "ss://2022-blake3-chacha20-poly1305:syoHUErIIXqk/xwYXjB/fHaW3puNw529eq5eIqtjpq0=@137.131.187.253:59319#%F0%9F%87%A7%F0%9F%87%B7BR_9",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:AAnZMP2ngI6K+bE7D4YWS46ddS38gW/8pv2H7xTYMJc=@129.146.113.243:50356#%F0%9F%87%BA%F0%9F%87%B8US_593",
+      "link": "hysteria2://https://xship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8US_436",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
