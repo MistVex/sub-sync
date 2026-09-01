@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 8679,
-  "output_count": 8672,
+  "extracted_count": 8611,
+  "output_count": 8605,
   "check_mode": "syntax",
-  "check_count": 8679,
-  "failed_count": 7,
+  "check_count": 8611,
+  "failed_count": 6,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -33,13 +33,13 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-674%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-679%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-769%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-772%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -57,22 +57,16 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NWE0OTJkLTIxZTYtNGNjMC1hYmJiLWI2NjgxM2ExNjNjMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IlFxdy00djRyMDY2d3d2fPCfk4o5OTkuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器52",
+      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NWE0OTJkLTIxZTYtNGNjMC1hYmJiLWI2NjgxM2ExNjNjMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IlFxdy00djRyMDY2d3d2fPCfk4o5OTkuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器44",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDMuODMuODcuMjI5IiwNCiAgInBvcnQiOiAiMzE5NzMiLA0KICAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器62",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDMuODMuODcuMjI5IiwNCiAgInBvcnQiOiAiMzE5NzMiLA0KICAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器54",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2023.1MB%2Fs",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
     }
   ]
 }
