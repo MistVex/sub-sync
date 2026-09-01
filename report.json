@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 7304,
-  "output_count": 7297,
+  "extracted_count": 6950,
+  "output_count": 6946,
   "check_mode": "syntax",
-  "check_count": 7304,
-  "failed_count": 7,
+  "check_count": 6950,
+  "failed_count": 4,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -32,46 +32,28 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-686%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-682%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-777%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-767%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip4.934618.xyz:51133?security=tls&type=tcp&packetEncoding=none&sni=ip4.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_430%7C284KB%2Fs%7CR002-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vless://Telegramjoin:TurboConfigs",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NWE0OTJkLTIxZTYtNGNjMC1hYmJiLWI2NjgxM2ExNjNjMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IlFxdy00djRyMDY2d3d2fPCfk4o5OTkuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器30",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDMuODMuODcuMjI5IiwNCiAgInBvcnQiOiAiMzE5NzMiLA0KICAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器1",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDMuODMuODcuMjI5IiwNCiAgInBvcnQiOiAiMzE5NzMiLA0KICAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器48",
+      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NWE0OTJkLTIxZTYtNGNjMC1hYmJiLWI2NjgxM2ExNjNjMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IlFxdy00djRyMDY2d3d2fPCfk4o5OTkuMDBHQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器52",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
-    },
-    {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip4.934618.xyz:51133?security=tls&type=tcp&packetEncoding=none&sni=ip4.934618.xyz&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB%2Fs",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
     }
   ]
 }
