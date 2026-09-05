@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 11059,
-  "output_count": 11051,
+  "extracted_count": 11288,
+  "output_count": 11280,
   "check_mode": "syntax",
-  "check_count": 11059,
+  "check_count": 11288,
   "failed_count": 8,
   "split_size": 2000,
   "split_files": [
@@ -34,31 +34,37 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-703%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-701%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-797%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-796%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDMuODMuODcuMjI5IiwNCiAgInBvcnQiOiAiMzE5NzMiLA0KICAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器72",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "invalid vmess base64"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1230",
+      "link": "ss://2022-blake3-chacha20-poly1305:iOhmZnQI7flsFeV+sBv/ZTmItodrgFC4+y+V7RQX9to=@134.65.57.186:61312#%F0%9F%87%AC%F0%9F%87%A7GB_363",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_630",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1015",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1453",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:HWFFJN19JkvbTKo/79AfnbRBK9uHUUaFNZJyLjEoJGs=@51.222.107.43:2083#%F0%9F%87%A8%F0%9F%87%A6CA_85",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -70,13 +76,7 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:i/Zztl+WSTQLhWEhGQS15RvKiO4DJ/xL6Mt+CI2eo28=@130.61.178.72:59924#%F0%9F%87%A9%F0%9F%87%AADE_175",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US_593",
+      "link": "ss://2022-blake3-chacha20-poly1305:Fb35n+/0WCzZDFHhBFMExY6ifsinvDzE+45kgk5UuJo=@168.107.84.40:56927#%F0%9F%87%B8%F0%9F%87%ACSG_146",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
