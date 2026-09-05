@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 11288,
-  "output_count": 11280,
+  "extracted_count": 11347,
+  "output_count": 11339,
   "check_mode": "syntax",
-  "check_count": 11288,
+  "check_count": 11347,
   "failed_count": 8,
   "split_size": 2000,
   "split_files": [
