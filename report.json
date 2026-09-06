@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10774,
-  "output_count": 10768,
+  "extracted_count": 8093,
+  "output_count": 8087,
   "check_mode": "syntax",
-  "check_count": 10774,
+  "check_count": 8093,
   "failed_count": 6,
   "split_size": 2000,
   "split_files": [
@@ -26,8 +26,7 @@
     "chunks/sub-002.txt",
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
-    "chunks/sub-005.txt",
-    "chunks/sub-006.txt"
+    "chunks/sub-005.txt"
   ],
   "errors": [
     "failed to fetch https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d: HTTP Error 522: <none>",
@@ -35,13 +34,13 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-708%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-712%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-792%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-800%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
