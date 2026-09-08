@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10203,
-  "output_count": 10194,
+  "extracted_count": 8852,
+  "output_count": 8843,
   "check_mode": "syntax",
-  "check_count": 10203,
+  "check_count": 8852,
   "failed_count": 9,
   "split_size": 2000,
   "split_files": [
@@ -26,8 +26,7 @@
     "chunks/sub-002.txt",
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
-    "chunks/sub-005.txt",
-    "chunks/sub-006.txt"
+    "chunks/sub-005.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -46,7 +45,7 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器48",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器10",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
