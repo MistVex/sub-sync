@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10829,
-  "output_count": 10821,
+  "extracted_count": 13660,
+  "output_count": 13651,
   "check_mode": "syntax",
-  "check_count": 10829,
-  "failed_count": 8,
+  "check_count": 13660,
+  "failed_count": 9,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -27,7 +27,8 @@
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
     "chunks/sub-005.txt",
-    "chunks/sub-006.txt"
+    "chunks/sub-006.txt",
+    "chunks/sub-007.txt"
   ],
   "errors": [
     "failed to fetch https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d: HTTP Error 522: <none>",
@@ -35,19 +36,25 @@
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-728%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-733%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-819%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-824%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器5",
+      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_871%7C375KB%2Fs%7CM001-260618",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器46",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
