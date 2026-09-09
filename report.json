@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 10390,
-  "output_count": 10381,
+  "extracted_count": 8835,
+  "output_count": 8826,
   "check_mode": "syntax",
-  "check_count": 10390,
+  "check_count": 8835,
   "failed_count": 9,
   "split_size": 2000,
   "split_files": [
@@ -26,27 +26,26 @@
     "chunks/sub-002.txt",
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
-    "chunks/sub-005.txt",
-    "chunks/sub-006.txt"
+    "chunks/sub-005.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
   ],
   "checks": [
     {
-      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-732%20%7C%20free-nodes",
+      "link": "vless://5d02517f-63d#%E6%9C%AA%E7%9F%A5%20VLESS-736%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-822%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-824%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器21",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIDog2qnYp9mG2KfZhCIsDQogICJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLA0KICAicG9ydCI6ICIxMTAiLA0KICAiaWQiOiAiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器3",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
