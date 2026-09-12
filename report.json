@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 9667,
-  "output_count": 9659,
+  "extracted_count": 9607,
+  "output_count": 9597,
   "check_mode": "syntax",
-  "check_count": 9667,
-  "failed_count": 8,
+  "check_count": 9607,
+  "failed_count": 10,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -39,13 +39,25 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-829%20%7C%20free-nodes",
+      "link": "vless://9794d18f-9280-3553-a7a5-a23da75aca76#%E6%9C%AA%E7%9F%A5%20VLESS-832%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
       "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_324%7C353KB%2Fs%7CM001-260618",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4eo8J+HtCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==#🌐服务器55",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid vmess json"
+    },
+    {
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_28%7C4.1MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
