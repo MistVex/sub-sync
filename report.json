@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 13691,
-  "output_count": 13659,
+  "extracted_count": 11855,
+  "output_count": 11825,
   "check_mode": "syntax",
-  "check_count": 13691,
-  "failed_count": 32,
+  "check_count": 11855,
+  "failed_count": 30,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -27,8 +27,7 @@
     "chunks/sub-003.txt",
     "chunks/sub-004.txt",
     "chunks/sub-005.txt",
-    "chunks/sub-006.txt",
-    "chunks/sub-007.txt"
+    "chunks/sub-006.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -53,19 +52,13 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_554%7C1.0MB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_386%7C581KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_624%7C1.3MB%2Fs%7CM001-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.7MB%2Fs",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.4MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -216,12 +209,6 @@
     },
     {
       "link": "ss://2022-blake3-chacha20-poly1305:qp01vmOLvi4mN/iTG0oPcWhgK0C3ZvrkFQ2ZaT2t0H4=@144.21.40.104:45819#%F0%9F%87%B3%F0%9F%87%B1NL_418",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA%3D%3D@node8.quaxly.com:25040?allowInsecure=1&sni=/gay-anal&alpn=http/1.1&type=ws&path=/node8.quaxly.com#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2052.3MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
