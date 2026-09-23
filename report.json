@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5054,
-  "output_count": 5045,
+  "extracted_count": 5236,
+  "output_count": 5226,
   "check_mode": "syntax",
-  "check_count": 5054,
-  "failed_count": 9,
+  "check_count": 5236,
+  "failed_count": 10,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -80,6 +80,12 @@
     },
     {
       "link": "hysteria2://https://xship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%E2%9D%93Other_59",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=none&type=tcp&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2010",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
