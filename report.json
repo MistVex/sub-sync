@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 6267,
-  "output_count": 6255,
+  "extracted_count": 6659,
+  "output_count": 6647,
   "check_mode": "syntax",
-  "check_count": 6267,
+  "check_count": 6659,
   "failed_count": 12,
   "split_size": 2000,
   "split_files": [
@@ -38,13 +38,13 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#%E6%9C%AA%E7%9F%A5%20TROJAN-48%20%7C%20free-nodes",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_56%7C1.7MB%2Fs%7CA004-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_12%7C1.0MB%2Fs",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.3MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -92,7 +92,7 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2011.1MB%2Fs",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20121.2MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
