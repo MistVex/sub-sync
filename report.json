@@ -15,16 +15,17 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4435,
-  "output_count": 4421,
+  "extracted_count": 6537,
+  "output_count": 6523,
   "check_mode": "syntax",
-  "check_count": 4435,
+  "check_count": 6537,
   "failed_count": 14,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
     "chunks/sub-002.txt",
-    "chunks/sub-003.txt"
+    "chunks/sub-003.txt",
+    "chunks/sub-004.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -37,25 +38,25 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#%E6%9C%AA%E7%9F%A5%20TROJAN-54%20%7C%20free-nodes",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#%E6%9C%AA%E7%9F%A5%20TROJAN-56%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_339%7C1009KB%2Fs%7CR002-260618",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_89%7C866KB%2Fs%7CA004-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_58%7C3.8MB%2Fs%7CA004-260618",
+      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_229%7C455KB%2Fs%7CM001-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_3%7C4.5MB%2Fs",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_108%7C2.7MB%2Fs%7CA004-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
