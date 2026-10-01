@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 6420,
-  "output_count": 6403,
+  "extracted_count": 6130,
+  "output_count": 6113,
   "check_mode": "syntax",
-  "check_count": 6420,
+  "check_count": 6130,
   "failed_count": 17,
   "split_size": 2000,
   "split_files": [
@@ -38,97 +38,97 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_25%7C4.0MB%2Fs%7CA004-260618",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#%E6%9C%AA%E7%9F%A5%20TROJAN-92%20%7C%20free-nodes",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_30%7C4.2MB%2Fs%7CA004-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_73%7C212KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_246%7C1.0MB%2Fs%7CR002-260618",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=%2Fgay-anal&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_32%7C2.7MB%2Fs%7CA004-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=ip5.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_533%7C8.4MB%2Fs%7CR002-260618",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_61",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:T1bAAqVlY6NI/tQyT8OEP6Sm7kh5JLYiNuHLqQWMvWE=@130.61.177.191:59924#%F0%9F%87%A9%F0%9F%87%AADE_161",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_88",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-aes-128-gcm:ABpp50oz/6gDZGxZQhVyKA==@47.90.153.88:8388#%F0%9F%87%BA%F0%9F%87%B8US_495",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_242",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1924",
+      "link": "ss://2022-blake3-chacha20-poly1305:216nMVbJW7yKx1FtXs/a/4Fpmqo1EeUWxAhGkzN7yRU=@141.148.244.238:45819#%F0%9F%87%B3%F0%9F%87%B1NL_228",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:9ISnjQzxrbopifGW/50s3KTVx19cK6T07QlyzeExBRw=@130.61.84.200:59924#%F0%9F%87%A9%F0%9F%87%AADE_169",
+      "link": "ss://2022-blake3-aes-256-gcm:zZ+k8UwdTQ9ZTnxEodTN2YI6KrFKEAcBWgCbLZIVUTE=:LbWEdFyjKcvZcv9agyGttSn0HNap+ecf50/UrlGMBCQ=@nl-irancell3.xelfona.ir:49548#%F0%9F%87%AB%F0%9F%87%B7FR_2056",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_106",
+      "link": "ss://2022-blake3-chacha20-poly1305:0nsl26FPc6qEV5eVKpApfIg1F7/+QhdopPT+PiXO8RU=@141.148.232.142:45819#%F0%9F%87%B3%F0%9F%87%B1NL_229",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:zwbOr/I/6+EK8ln8DB8N3/w+EGgtGtwGscxeRXRk53A=@130.61.84.196:59924#%F0%9F%87%A9%F0%9F%87%AADE_170",
+      "link": "ss://2022-blake3-chacha20-poly1305:IS32OF3tLm5aphxvlM/79EAcIjV2Jry7tmTuO7F4Uew=@144.24.231.47:61312#%F0%9F%87%AC%F0%9F%87%A7GB_59",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_65",
+      "link": "ss://2022-blake3-chacha20-poly1305:ZG5WzCzzYlKcfxZefNynxt0D2yveQ5jkD74pwXJNw/w=@134.65.58.210:61312#%F0%9F%87%AC%F0%9F%87%A7GB_60",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US_413",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_726",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:9PfRlIGvpMs8nD7s65B/3IxccQG+p631X9tCLZy+CRI=@161.118.219.5:56927#%F0%9F%87%B8%F0%9F%87%ACSG_83",
+      "link": "hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8US_391",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-chacha20-poly1305:s9CVCQlH8SB/LXByDobKTOMdTjJ7WScGfA57wZhHbek=@168.107.84.41:56927#%F0%9F%87%B8%F0%9F%87%ACSG_84",
+      "link": "ss://2022-blake3-chacha20-poly1305:PAijPIjA3tTKiNb0oRJyZrveMENhEwhO8Dk8/gp/ztM=@130.61.228.41:59924#%F0%9F%87%A9%F0%9F%87%AADE_162",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_100",
+      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#%E6%9C%AA%E7%9F%A5%20TROJAN-81",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=none&type=tcp&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2013",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=none&type=tcp&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2012",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
