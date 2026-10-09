@@ -15,17 +15,16 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 7134,
-  "output_count": 7123,
+  "extracted_count": 5381,
+  "output_count": 5377,
   "check_mode": "syntax",
-  "check_count": 7134,
-  "failed_count": 11,
+  "check_count": 5381,
+  "failed_count": 4,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
     "chunks/sub-002.txt",
-    "chunks/sub-003.txt",
-    "chunks/sub-004.txt"
+    "chunks/sub-003.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -38,61 +37,19 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=ip5.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_418%7C3.9MB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_41%7C97KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@193.24.210.211:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_42",
+      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=google.com#%E2%9D%93Other_56",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178#%E2%9D%93Other_65",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?sni=/gay-anal&allowInsecure=1&type=ws&path=/&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE_31",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_131",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_413",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA=@129.150.59.74:14384#%F0%9F%87%B8%F0%9F%87%ACSG_67",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@177.1.195.242:24000,24000-24999?insecure=1&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%202",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@79.137.206.157:21000,21000-21999?insecure=1&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%204",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@91.196.161.47:25000,25000-25999?insecure=1&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#%E6%B3%A2%E5%85%B0%20POL",
+      "link": "hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#Node",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
