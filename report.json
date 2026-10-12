@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 6823,
-  "output_count": 6814,
+  "extracted_count": 7093,
+  "output_count": 7081,
   "check_mode": "syntax",
-  "check_count": 6823,
-  "failed_count": 9,
+  "check_count": 7093,
+  "failed_count": 12,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -38,13 +38,25 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=ip5.934618.xyz&insecure=1&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.4MB%2Fs",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=127.0.0.1&sub_tag=P002-260618&udp=1&username=github.com%2FAlvin9999-newpac%2Ffanqiang&disable_sni=true#%F0%9F%87%AB%F0%9F%87%B7FR_162%7C1.1MB%2Fs%7CP002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=127.0.0.1&udp=1&username=github.com%2FAlvin9999-newpac%2Ffanqiang&disable_sni=true#%F0%9F%87%AB%F0%9F%87%B7FR_5%7C2.5MB%2Fs",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_249%7C645KB%2Fs%7CR002-260618",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=ip5.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_47%7C4.2MB%2Fs%7CR002-260618",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.0MB%2Fs",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -80,7 +92,13 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%20604",
+      "link": "hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.23.247:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%E5%B7%B4%E8%A5%BF%20BRA",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "hysteria2://https%3A//xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%205",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
