@@ -15,18 +15,15 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 9279,
-  "output_count": 9269,
+  "extracted_count": 3921,
+  "output_count": 3917,
   "check_mode": "syntax",
-  "check_count": 9279,
-  "failed_count": 10,
+  "check_count": 3921,
+  "failed_count": 4,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
-    "chunks/sub-002.txt",
-    "chunks/sub-003.txt",
-    "chunks/sub-004.txt",
-    "chunks/sub-005.txt"
+    "chunks/sub-002.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -39,55 +36,19 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_1728%7C576KB%2Fs%7CM001-260618",
+      "link": "hysteria2://b42d90fa667942aebc734d60@137.23.2.56:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%20637",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=ip5.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_1171%7C1.4MB%2Fs%7CR002-260618",
+      "link": "hysteria2://a34f3990b69f44bfa0d32385@137.23.16.77:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%202",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1#%F0%9F%87%AB%F0%9F%87%B7FR_148",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_587",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178#%F0%9F%87%B9%F0%9F%87%B7TR_2",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-aes-256-gcm:cOiC+3JhAXMwdGV5exnrMSorJU0Rl5qlLCbCAuDlWY4=:HWFFJN19JkvbTKo/79AfnbRBK9uHUUaFNZJyLjEoJGs=@51.222.107.43:2083#%F0%9F%87%A8%F0%9F%87%A6CA_18",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_621",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl/DUxconwxg6VZyFdsdfaVCvEatJo=:7bTEhHgpErKiRjE1ega+H6pcpJsNLFB0CjQseujAHrA=@129.150.59.74:14384#%E2%9D%93Other_80",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "hysteria2://https://xship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8US_303",
+      "link": "hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.23.247:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%E5%B7%B4%E8%A5%BF%20BRA",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
