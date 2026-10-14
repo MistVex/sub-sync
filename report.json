@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4461,
-  "output_count": 4456,
+  "extracted_count": 4441,
+  "output_count": 4437,
   "check_mode": "syntax",
-  "check_count": 4461,
-  "failed_count": 5,
+  "check_count": 4441,
+  "failed_count": 4,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -27,7 +27,6 @@
     "chunks/sub-003.txt"
   ],
   "errors": [
-    "failed to fetch https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d: HTTP Error 403: Forbidden",
     "failed to fetch https://gh-proxy.com/raw.githubusercontent.com/bin1site1/V2rayFree/refs/heads/main/config.txt: HTTP Error 403: Forbidden",
     "failed to fetch https://gh-proxy.com/raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt: HTTP Error 403: Forbidden",
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
@@ -35,12 +34,6 @@
   "checks": [
     {
       "link": "trojan://Km/[email",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=ip5.934618.xyz&sub_tag=R002-260618&udp=1#%F0%9F%87%AB%F0%9F%87%B7FR_6%7C2.4MB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
