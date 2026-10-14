@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 3983,
-  "output_count": 3981,
+  "extracted_count": 3871,
+  "output_count": 3870,
   "check_mode": "syntax",
-  "check_count": 3983,
-  "failed_count": 2,
+  "check_count": 3871,
+  "failed_count": 1,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -31,12 +31,6 @@
   "checks": [
     {
       "link": "trojan://Km/[email",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@ip5.934618.xyz:30099?security=tls&type=tcp&packetEncoding=none&sni=127.0.0.1&sub_tag=P002-260618&udp=1&username=github.com%2FAlvin9999-newpac%2Ffanqiang&disable_sni=true#%E2%9D%93Other_100%7C352KB%2Fs%7CP002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
