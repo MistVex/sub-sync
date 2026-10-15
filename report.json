@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5678,
-  "output_count": 5674,
+  "extracted_count": 5648,
+  "output_count": 5643,
   "check_mode": "syntax",
-  "check_count": 5678,
-  "failed_count": 4,
+  "check_count": 5648,
+  "failed_count": 5,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -50,6 +50,12 @@
     },
     {
       "link": "hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7FR_1115",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "hysteria2://a34f3990b69f44bfa0d32385@192.9.175.191:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%20636",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
