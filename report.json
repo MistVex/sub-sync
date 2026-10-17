@@ -15,20 +15,18 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 6033,
-  "output_count": 6029,
+  "extracted_count": 5232,
+  "output_count": 5227,
   "check_mode": "syntax",
-  "check_count": 6033,
-  "failed_count": 4,
+  "check_count": 5232,
+  "failed_count": 5,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
     "chunks/sub-002.txt",
-    "chunks/sub-003.txt",
-    "chunks/sub-004.txt"
+    "chunks/sub-003.txt"
   ],
   "errors": [
-    "failed to fetch https://sub.proxygo.org/v2ray.php?key=69571063781e0e1f57e85abf8acf594d: HTTP Error 403: Forbidden",
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
   ],
   "checks": [
@@ -39,19 +37,25 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_259%7C1.1MB%2Fs%7CR002-260618",
+      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_192%7C453KB%2Fs%7CM001-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_226%7C890KB%2Fs%7CM001-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_411%7C1.1MB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.171.249:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%E5%B7%B4%E8%A5%BF%20BRA%202",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNS40NS45Ny4xNDciLA0KICAicG9ydCI6ICIxMDgwMyIsDQogICJpZCI6ICIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器38",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid vmess base64"
+    },
+    {
+      "link": "hysteria2://https%3A//xship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%203",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
