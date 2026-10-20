@@ -15,35 +15,34 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4312,
-  "output_count": 4309,
+  "extracted_count": 3999,
+  "output_count": 3996,
   "check_mode": "syntax",
-  "check_count": 4312,
+  "check_count": 3999,
   "failed_count": 3,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
-    "chunks/sub-002.txt",
-    "chunks/sub-003.txt"
+    "chunks/sub-002.txt"
   ],
   "errors": [
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1016)>"
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_62%7C437KB%2Fs%7CR002-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMDgwMyIsInBzIjoi8J+Hq/Cfh67wnZmP8J2ZmvCdmaHwnZma8J2ZnPCdmafwnZmW8J2ZouKruEDwnZmr8J2frvCdmafwnZmW8J2ZrvCdmYnwnZmCX/CdmYjwnZmW8J2ZqfCdmajwnZmq8J2Zp/CdmZ4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器44",
+      "link": "vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMDgwMyIsInBzIjoi8J+Hq/Cfh67wnZmP8J2ZmvCdmaHwnZma8J2ZnPCdmafwnZmW8J2ZouKruEDwnZmr8J2frvCdmafwnZmW8J2ZrvCdmYnwnZmCX/CdmYjwnZmW8J2ZqfCdmajwnZmq8J2Zp/CdmZ4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器41",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
     },
     {
-      "link": "hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%20657",
+      "link": "hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000,20000-30000?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%E5%B7%B4%E8%A5%BF%20BRA",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "hysteria2://6e4ceae4-6d81-4d87-9802-759ea5c244e5@sg02-hy.poke-mon.xyz:20000,20000-50000?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%205",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
