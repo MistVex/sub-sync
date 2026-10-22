@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5296,
-  "output_count": 5294,
+  "extracted_count": 5243,
+  "output_count": 5241,
   "check_mode": "syntax",
-  "check_count": 5296,
+  "check_count": 5243,
   "failed_count": 2,
   "split_size": 2000,
   "split_files": [
@@ -37,7 +37,7 @@
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwYTlkZmIwYi00ZmUxLTQwZmUtYjc0Yy0wMzY3ZTY2NmNhOTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE2OTExIiwicHMiOiLwn4e68J+HuPCdmY/wnZma8J2ZofCdmZrwnZmc8J2Zp/CdmZbwnZmi4qu4QPCdmavwnZ+u8J2Zp/CdmZbwnZmu8J2ZifCdmYJf8J2ZiPCdmZbwnZmp8J2ZqPCdmarwnZmn8J2ZniIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器14",
+      "link": "vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwYTlkZmIwYi00ZmUxLTQwZmUtYjc0Yy0wMzY3ZTY2NmNhOTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE2OTExIiwicHMiOiLwn4e68J+HuPCdmY/wnZma8J2ZofCdmZrwnZmc8J2Zp/CdmZbwnZmi4qu4QPCdmavwnZ+u8J2Zp/CdmZbwnZmu8J2ZifCdmYJf8J2ZiPCdmZbwnZmp8J2ZqPCdmarwnZmn8J2ZniIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器18",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
