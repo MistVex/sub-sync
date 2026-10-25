@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5386,
-  "output_count": 5383,
+  "extracted_count": 5303,
+  "output_count": 5301,
   "check_mode": "syntax",
-  "check_count": 5386,
-  "failed_count": 3,
+  "check_count": 5303,
+  "failed_count": 2,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -31,22 +31,16 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_312%7C986KB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_120%7C1.1MB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTc4OTEiLA0KICAiaWQiOiAiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器38",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTc4OTEiLA0KICAiaWQiOiAiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器33",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
-    },
-    {
-      "link": "hysteria2://https%3A//xship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%205",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
     }
   ]
 }
