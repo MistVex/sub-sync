@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 3968,
-  "output_count": 3965,
+  "extracted_count": 3727,
+  "output_count": 3724,
   "check_mode": "syntax",
-  "check_count": 3968,
+  "check_count": 3727,
   "failed_count": 3,
   "split_size": 2000,
   "split_files": [
@@ -30,22 +30,22 @@
   ],
   "checks": [
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTc4OTEiLA0KICAiaWQiOiAiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器7",
+      "link": "trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=%2F%252F195.123.218.174-443&host=blackshadow.dpdns.org#%E2%9D%93Other_120%7C921KB%2Fs%7CM001-260618",
       "ok": false,
       "mode": "syntax",
-      "reason": "invalid vmess base64"
+      "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTYwODAiLA0KICAiaWQiOiAiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTMuMTQwLjg0LjI1MyIsDQogICJwb3J0IjogIjQ3ODc1IiwNCiAgImlkIjogImI4YTkxZmM3LTE0NjUtNDUyNi05ZmYxLTY4NzdhMzM2ZjdlYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIxMy4xNDAuODQuMjUzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIiwNCiAgImluc2VjdXJlIjogIjAiLA0KICAidmNuIjogIiIsDQogICJwY3MiOiAiIg0KfQ==trojan://mitivpn@167.82.64.46:443?security=tls&sni=firefox.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn.ac.ir&path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048#🌐服务器27",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTYwODAiLA0KICAiaWQiOiAiZjRkYWFlYzctMGUxZS00YzhlLTk3ZTgtY2ZmNTM0N2MyZGFlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTMuMTQwLjg0LjI1MyIsDQogICJwb3J0IjogIjQ3ODc1IiwNCiAgImlkIjogImI4YTkxZmM3LTE0NjUtNDUyNi05ZmYxLTY4NzdhMzM2ZjdlYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIxMy4xNDAuODQuMjUzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIiwNCiAgImluc2VjdXJlIjogIjAiLA0KICAidmNuIjogIiIsDQogICJwY3MiOiAiIg0KfQ==trojan://mitivpn@167.82.64.46:443?security=tls&sni=firefox.com&fp=chrome&alpn=http%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn-mitivpn.ac.ir&path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048#🌐服务器11",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess json"
     },
     {
-      "link": "hysteria2://https%3A//xship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%206",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiNDUuMTQ0LjQ4LjMyIiwNCiAgInBvcnQiOiAiNTc4OTEiLA0KICAiaWQiOiAiZTAzNDQ1ZjItZTU2Mi00NjBjLTljNmYtMDNkODQxMjI4ZDQ3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9#🌐服务器18",
       "ok": false,
       "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
+      "reason": "invalid vmess base64"
     }
   ]
 }
