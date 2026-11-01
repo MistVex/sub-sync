@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5879,
-  "output_count": 5876,
+  "extracted_count": 5110,
+  "output_count": 5105,
   "check_mode": "syntax",
-  "check_count": 5879,
-  "failed_count": 3,
+  "check_count": 5110,
+  "failed_count": 5,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -31,22 +31,34 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_239%7C751KB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_115%7C98KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIDogQERhaWx5X0NvbmZpZ3MgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器41",
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTA5LjcwLjc0Ljk0IiwNCiAgInBvcnQiOiAiNTQ3MzgiLA0KICAiaWQiOiAiYzQzMGNjNTctNWRmZS00NDA2LThiYzYtMjFiZTA1OWIyY2Q4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#🌐服务器16",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid vmess json"
+    },
+    {
+      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIDogQERhaWx5X0NvbmZpZ3MgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器61",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
     },
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTA5LjcwLjc0Ljk0IiwNCiAgInBvcnQiOiAiNTQ3MzgiLA0KICAiaWQiOiAiYzQzMGNjNTctNWRmZS00NDA2LThiYzYtMjFiZTA1OWIyY2Q4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#🌐服务器65",
+      "link": "hysteria2://171a4d7a-a1f0-499c-9fc5-3915c8b1f47b@ufcaxsoooxez3p6h.5273ef7a.e.yuetong.online:19310,19310-19821?insecure=1&sni=srv-l7o.yuetong.online&obfs=salamander&obfs-password=4mcqiPwfROfrKkIKx1WO32Va#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20603",
       "ok": false,
       "mode": "syntax",
-      "reason": "invalid vmess json"
+      "reason": "missing or invalid user/host/port"
+    },
+    {
+      "link": "hysteria2://171a4d7a-a1f0-499c-9fc5-3915c8b1f47b@ufcaxsoooxez3p6h.5273ef7a.e.yuetong.online:22700,22700-23599?insecure=1&sni=api-q5.yuetong.online&obfs=salamander&obfs-password=RCsFxWZG3IaIukDE3U9l3bIv#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%202",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "missing or invalid user/host/port"
     }
   ]
 }
