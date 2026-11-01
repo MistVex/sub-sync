@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4751,
-  "output_count": 4749,
+  "extracted_count": 5879,
+  "output_count": 5876,
   "check_mode": "syntax",
-  "check_count": 4751,
-  "failed_count": 2,
+  "check_count": 5879,
+  "failed_count": 3,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -31,16 +31,22 @@
   ],
   "checks": [
     {
-      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTA5LjcwLjc0Ljk0IiwNCiAgInBvcnQiOiAiNTQ3MzgiLA0KICAiaWQiOiAiYzQzMGNjNTctNWRmZS00NDA2LThiYzYtMjFiZTA1OWIyY2Q4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#🌐服务器45",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_239%7C751KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
-      "reason": "invalid vmess json"
+      "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIDogQERhaWx5X0NvbmZpZ3MgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器51",
+      "link": "vmess://eyJhZGQiOiI5MS4xMDcuMTY5LjIyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJkNGI2OTEwOC1mNzU2LTQ4YWYtYTMzMS1lODM1NmJjOTVlYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJDaGFubmVsIDogQERhaWx5X0NvbmZpZ3MgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器41",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
+    },
+    {
+      "link": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNoYW5uZWwgOiBARGFpbHlfQ29uZmlncyIsDQogICJhZGQiOiAiMTA5LjcwLjc0Ljk0IiwNCiAgInBvcnQiOiAiNTQ3MzgiLA0KICAiaWQiOiAiYzQzMGNjNTctNWRmZS00NDA2LThiYzYtMjFiZTA1OWIyY2Q4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#🌐服务器65",
+      "ok": false,
+      "mode": "syntax",
+      "reason": "invalid vmess json"
     }
   ]
 }
