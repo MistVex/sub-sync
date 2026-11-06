@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4346,
-  "output_count": 4344,
+  "extracted_count": 4442,
+  "output_count": 4440,
   "check_mode": "syntax",
-  "check_count": 4346,
+  "check_count": 4442,
   "failed_count": 2,
   "split_size": 2000,
   "split_files": [
@@ -31,13 +31,13 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_26%7C463KB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_90%7C1.1MB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vmess://eyJhZGQiOiIxODguMTY2LjgxLjEzNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IvCfh6zwn4en8J2Zj/CdmZrwnZmh8J2ZmvCdmZzwnZmn8J2ZlvCdmaLiq7hA8J2Zq/Cdn67wnZmn8J2ZlvCdma7wnZmJ8J2Zgl/wnZmI8J2ZlvCdmanwnZmo8J2ZqvCdmafwnZmeIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器6",
+      "link": "vmess://eyJhZGQiOiIxODguMTY2LjgxLjEzNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IvCfh6zwn4en8J2Zj/CdmZrwnZmh8J2ZmvCdmZzwnZmn8J2ZlvCdmaLiq7hA8J2Zq/Cdn67wnZmn8J2ZlvCdma7wnZmJ8J2Zgl/wnZmI8J2ZlvCdmanwnZmo8J2ZqvCdmafwnZmeIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🌐服务器1",
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess base64"
