@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 4524,
-  "output_count": 4522,
+  "extracted_count": 5574,
+  "output_count": 5573,
   "check_mode": "syntax",
-  "check_count": 4524,
-  "failed_count": 2,
+  "check_count": 5574,
+  "failed_count": 1,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -30,12 +30,6 @@
     "failed to fetch https://nodes.udptoos.com/subscriptions/base64.txt: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nodes.udptoos.com'. (_ssl.c:1018)>"
   ],
   "checks": [
-    {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_27%7C1.1MB%2Fs%7CR002-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
     {
       "link": "vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:#%E6%9C%AA%E7%9F%A5%20VLESS-84",
       "ok": false,
