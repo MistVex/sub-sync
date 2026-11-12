@@ -15,10 +15,10 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 5177,
-  "output_count": 5175,
+  "extracted_count": 4711,
+  "output_count": 4709,
   "check_mode": "syntax",
-  "check_count": 5177,
+  "check_count": 4711,
   "failed_count": 2,
   "split_size": 2000,
   "split_files": [
@@ -31,16 +31,16 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_397%7C753KB%2Fs%7CR002-260618",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_198%7C631KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:#%E6%9C%AA%E7%9F%A5%20VLESS-84",
+      "link": "vmess://eyJhZGQiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiYTExMTZlMi04YzJmLTRlM2QtOGU1MC1jOTU0MzYwY2Y5NzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0BGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjEyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwiaWQiOiJlNzBhNWI3MC1mNjNjLTQ0NTAtYWY4Yi05NDk5MGNkZjgwYzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==#🌐服务器24",
       "ok": false,
       "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
+      "reason": "invalid vmess json"
     }
   ]
 }
