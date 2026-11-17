@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 3596,
-  "output_count": 3594,
+  "extracted_count": 3241,
+  "output_count": 3240,
   "check_mode": "syntax",
-  "check_count": 3596,
-  "failed_count": 2,
+  "check_count": 3241,
+  "failed_count": 1,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -34,12 +34,6 @@
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess json"
-    },
-    {
-      "link": "hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000,20000-30000?insecure=1&sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E6%B4%B2%20572",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
     }
   ]
 }
