@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 3502,
-  "output_count": 3498,
+  "extracted_count": 3376,
+  "output_count": 3373,
   "check_mode": "syntax",
-  "check_count": 3502,
-  "failed_count": 4,
+  "check_count": 3376,
+  "failed_count": 3,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -30,13 +30,13 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_241%7C1002KB%2Fs%7CR002-260618",
+      "link": "vless://SoonTeam",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
     },
     {
-      "link": "vless://SoonTeam",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_90%7C1.1MB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
@@ -46,12 +46,6 @@
       "ok": false,
       "mode": "syntax",
       "reason": "invalid vmess json"
-    },
-    {
-      "link": "hysteria2://https%3A//xship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%202",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
     }
   ]
 }
