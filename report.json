@@ -15,11 +15,11 @@
     "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
   ],
   "source_count": 13,
-  "extracted_count": 3963,
-  "output_count": 3960,
+  "extracted_count": 3638,
+  "output_count": 3636,
   "check_mode": "syntax",
-  "check_count": 3963,
-  "failed_count": 3,
+  "check_count": 3638,
+  "failed_count": 2,
   "split_size": 2000,
   "split_files": [
     "chunks/sub-001.txt",
@@ -30,13 +30,7 @@
   ],
   "checks": [
     {
-      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_498%7C1.1MB%2Fs%7CR002-260618",
-      "ok": false,
-      "mode": "syntax",
-      "reason": "missing or invalid user/host/port"
-    },
-    {
-      "link": "vless://SoonTeam",
+      "link": "anytls://github.com/Alvin9999-newpac/fanqiang@anytls2.864106.xyz:19000?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=anytls2.864106.xyz&insecure=1&sub_tag=R002-260618&udp=1#%F0%9F%87%BA%F0%9F%87%B8US_415%7C1023KB%2Fs%7CR002-260618",
       "ok": false,
       "mode": "syntax",
       "reason": "missing or invalid user/host/port"
